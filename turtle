@@ -1,0 +1,3 @@
+import turtle
+turtlename = turtle.Turtle()
+wn = turtle.Screen()
